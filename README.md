@@ -2,6 +2,10 @@ The notebook is a project titled *"Music Recommendation System"* based on Spotif
 
 ---
 
+https://github.com/user-attachments/assets/88683c68-fe25-446b-90d1-e7908a4c84eb
+
+
+
 ### *Music Recommendation System Project Script*
 
 #### *Introduction*
